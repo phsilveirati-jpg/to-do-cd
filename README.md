@@ -92,8 +92,8 @@ A aplicação será publicada utilizando **GitHub Pages**, permitindo acesso dir
 
 ## 👥 Integrantes
 
-* Pedro Ernesto
-* Ricardo Belan
+* Pedro Henrique Silveira Fonseca
+* Ricardo Gomes de Brito
 
 ---
 
